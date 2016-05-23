@@ -1,0 +1,10 @@
+{
+  "name": "node-kd-tree",
+  "version": "0.0.0",
+  "description": "Node-KDTree",
+  "main": "server.js",
+  "author": {
+    "name": "lfern",
+    "email": ""
+  }
+}
